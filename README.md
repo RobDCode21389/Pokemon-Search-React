@@ -3,8 +3,7 @@
 A React application that allows users to search for Pokémon by name or ID using the PokéAPI.
 
 ## 🚀 Live Demo
-[View Live Demo](#) <!--https://the-pokemon-search-app-react.netlify.app/-->
-
+[View Live Demo](https://the-pokemon-search-app-react.netlify.app/) 
 ## 📸 About
 This project is a rebuild of my original vanilla JavaScript Pokémon Search App, 
 converted to React to demonstrate component-based architecture and React hooks.
