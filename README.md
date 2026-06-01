@@ -1,16 +1,39 @@
-# React + Vite
+# Pokémon Search App - React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React application that allows users to search for Pokémon by name or ID using the PokéAPI.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+[View Live Demo](#) <!--https://the-pokemon-search-app-react.netlify.app/-->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📸 About
+This project is a rebuild of my original vanilla JavaScript Pokémon Search App, 
+converted to React to demonstrate component-based architecture and React hooks.
 
-## React Compiler
+## ⚡ Features
+- Search Pokémon by name or ID
+- Displays Pokémon sprite, stats, height and weight
+- Shows Pokémon type badges with unique colors
+- Error handling for invalid searches
+- Responsive design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Built With
+- React
+- Vite
+- PokéAPI
+- CSS
 
-## Expanding the ESLint configuration
+## 📚 React Concepts Used
+- useState for state management
+- Async/Await for API fetching
+- Component based architecture
+- Props for passing data between components
+- Conditional rendering
+- List rendering with .map()
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔗 Original Vanilla JS Version
+[Pokemon-API](https://github.com/RobDCode21389/Pokemon-API)
+
+## 👤 Author
+Robert Davis
+- Portfolio: [Your portfolio URL]
+- GitHub: [@RobDCode21389](https://github.com/RobDCode21389)
